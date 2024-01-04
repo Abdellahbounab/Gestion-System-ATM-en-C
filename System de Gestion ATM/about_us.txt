@@ -1,0 +1,21 @@
+Le systeme de gestion de guichet automatique ou ATM est un logiciel developpe par ABDELLAH BOUNAB, 
+un etudiant passionne de programmation. Ce projet a ete cree dans le cadre d'un travail academique
+pour Le cours des techniques et logique de programmation de la 1ere annee du cycle Bac+3 en Genie
+Informatique de l Institut Superieur de Genie Informatique.
+
+ATM est un programme ecrit en langage C qui permet de realiser les fonctionnalites suivantes :
+- Creation de compte utilisateur
+- Garder une trace des operations de transactions bancaires notamment le depot, le retrait et le
+virement
+- L impression du releve bancaire
+- Le changement du mot de passe
+
+Ce projet a ete une occasion pour moi d'apprendre et de mettre en pratique mes competences en
+programmation, ainsi que de relever des defis techniques.
+Je suis conscient(e) que ce programme peut comporter des bogues ou des erreurs, mais j'ai fait de
+mon mieux pour le tester et le deboguer. Si vous rencontrez des problemes ou si vous avez des
+commentaires, n'hesitez pas a me contacter e l'adresse abdellahbounab@gmail.com ou au 0615854738.
+Vos commentaires sont precieux pour moi et m'aideront e ameliorer ce programme e l'avenir.
+
+Je suis reconnaissant(e) de cette opportunite qui m'a permis d'acquerir de nouvelles competences en
+programmation et j'espere que [ATM] vous sera utile et vous aidera e atteindre vos objectifs.
